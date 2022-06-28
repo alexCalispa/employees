@@ -9,6 +9,6 @@ The following solution has two scripts, an html file and a folder with the .txt 
 
 
 ## INSTALL OR EJECUTE
-1.To execute the following script, you must double click on the index.html file.
-2.Open development console.
-3.See the result.
+1. To execute the following script, you must double click on the index.html file.
+2. Open development console.
+3. See the result.
